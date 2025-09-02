@@ -1,6 +1,7 @@
 # Simples
 
 A new Flutter project created with FlutLab - https://flutlab.io
+Criado por João Vitor
 
 ## Getting Started
 
